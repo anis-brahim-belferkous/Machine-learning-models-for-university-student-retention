@@ -1,0 +1,2 @@
+# Machine-learning-models-for-university-student-retention
+ This repository contains a collection of machine learning models designed to address the crucial issue of university student retention. The models aim to predict the likelihood of students dropping out or graduate in their academic journey. By leveraging various machine learning algorithms and techniques, these models provide valuable insights and actionable recommendations to universities and educational institutions.
